@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#main {
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    font-family: ComicSans, serif;
+}
+
+.welcome-section {
+    background-color: chartreuse;
+    height: 100vh;
+    font-family: ComicSans, serif;
+}
+
+.projects {
+    background-color: orange;
+    text-align: center;
+    font-family: ComicSans, serif;
+}
+
+.container-fluid{
+    padding: 0;
+    margin: 0;
+    font-family: ComicSans, serif;
+}
+
+.footer {
+    text-align: center;
+    background-color: blue;
+    font-family: ComicSans, serif;
+}
+
+@media (max-width: 300px) {
+    #main{background-color: crimson}
+}
