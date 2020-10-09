@@ -1,0 +1,23 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RokoVarano/microverse_Luis_Rodrigo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RokoVarano/microverse_Luis_Rodrigo/issues"
+  },
+  "homepage": "https://github.com/RokoVarano/microverse_Luis_Rodrigo#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
