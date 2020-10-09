@@ -3,22 +3,24 @@
     padding: 0;
 }
 
+
 #main {
     position: fixed;
     height: 100%;
     width: 100%;
-    background-color: red;
+    background-color: #F48C06;
     font-family: ComicSans, serif;
 }
 
 .welcome-section {
-    background-color: chartreuse;
+    background-color: #6A040F;
+    color: #FFFFFF;
     height: 100vh;
     font-family: ComicSans, serif;
 }
 
 .projects {
-    background-color: orange;
+    background-color: #DC2F02;
     text-align: center;
     font-family: ComicSans, serif;
 }
@@ -31,8 +33,9 @@
 
 .footer {
     text-align: center;
-    background-color: blue;
+    background-color: #03071E;
     font-family: ComicSans, serif;
+    padding: 100px;
 }
 
 @media (max-width: 300px) {
